@@ -1,4 +1,6 @@
-In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
+In this project, let's build a **Destination Search** app.
+
+click here for demo: https://searchimgvin.ccbp.tech/
 
 ### Refer to the image below:
 
